@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 frooodle/s-pdf
 sickcodes/docker-osx:catalina
+amruthpillai/reactive-resume
