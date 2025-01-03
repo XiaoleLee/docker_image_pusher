@@ -7,3 +7,5 @@ xhofe/alist:latest
 frooodle/s-pdf
 amruthpillai/reactive-resume
 ghcr.io/browserless/chromium
+minio/minio
+postgres:16-alpine
